@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-08-16 15:36:27
+title:  "hello world"
+date:   2021-01-10 15:36:27
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+When the world needs some nice hello, you can come here. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+"Hello World!";
 
-Jekyll also offers powerful support for code snippets:
+The <Art/> of <Code/>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+The first thing every computer programmer learns is how to show "Hello World!" on the computer screen. The title of this exhibition reflects these details: the title starts with double quotes; this establishes the following text as a string to be displayed on the screen and it is not something that the computer is supposed to do. Following the quotes is the text: in this case, "Hello World!". The second set of double quotes ends the string and tells the computer only to display what is between the quotes. The semi-colon at the end of the phrase establishes this as a command to be carried out.
