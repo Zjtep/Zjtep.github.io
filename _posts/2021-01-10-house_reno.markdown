@@ -30,5 +30,5 @@ Here are photos of the house before the crackheads took over. From the beginning
 
 Here are photos of the house after the crackheads had their run by.
 
-{% include image.html url="/images/house_09.jpg"  " width=900 align="center" %}
+{% include image.html url="/images/house_09.jpg" " width=900 align="center" %}
 
