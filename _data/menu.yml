@@ -8,7 +8,7 @@
 #   href: "/cv/"
 
 - title: "Miscellany"
-  # href: "www.google.com"
+  href: "/miscellany/"
   subcategories:
     - subtitle: "Item 1"
       subhref: "/miscellany/item-1/"
