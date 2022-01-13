@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "J.Z. vs Crack House"
+title:  "J.Z.'s Crackhouse Renovation"
 date:   2021-01-10 15:36:27
 categories: jekyll update
 ---
@@ -22,15 +22,53 @@ Here are photos of the house before the crackheads took over. From the beginning
 
 {% include image.html url="/images/house_05.jpg" caption="Who the hell modified the house to have a bathroom between the living room and the kitchen on the main floor? wut. It is out of place AND it adds more walls to further cramp the layout" width=900 align="center" %}
 
-{% include image.html url="/images/house_04.jpg" caption="The living room shouldn't be walled off like this in modern home designs" width=900 align="center" %}
+{% include image.html url="/images/house_04.jpg" caption="The living room shouldn't be walled off like this in modern home" width=900 align="center" %}
 
-{% include image.html url="/images/house_07.jpg" caption="I didn't know it at the time, but the storm drain was not actually set up correctly. " width=900 align="center" %}
+{% include image.html url="/images/house_07.jpg" caption="storm drain was not set up correctly. " width=900 align="center" %}
 
-{% include image.html url="/images/house_08.jpg" caption="Grimy carpet" width=900 align="center" %}
+{% include image.html url="/images/house_08.jpg" caption="Grimy carpet." width=900 align="center" %}
 
-{% include image.html url="/images/house_01.JPG" caption="This ugly rotting carport blocks the main entrance. It's extremely difficult to even open your car door to even park inside. Whats the point?" width=900 align="center" %}
+{% include image.html url="/images/house_01.JPG" caption="This ugly rotting carport blocks the main entrance." width=900 align="center" %}
 
 
 Here are photos of the house after the crackheads had their run by.
 
-{% include image.html url="/images/house_06.jpg" caption="The front door leads to a dark hall, with a smaller house, this does nothing for it. " width=900 align="center" %}
+{% include image.html url="/images/house_09.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_10.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_12.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_13.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_14.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_16.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_17.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_18.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_19.jpg" caption="They had a kiddy pool on the second floor LOOL" width=900 align="center" %}
+
+Needless to say, we had my work cut out for us. First order of business clean the house.
+
+{% include image.html url="/images/house_20.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_21.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_22.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_23.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_24.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_25.JPG" caption="Vacuuming the pool LOL" width=900 align="center" %}
+
+{% include image.html url="/images/house_26.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_27.jpg"  " width=900 align="center" %}
