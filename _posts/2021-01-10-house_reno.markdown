@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "J.Z.'s Crackhouse Renovation"
-date:   2021-01-10 15:36:27
+title:  "Crackhouse Renovation"
+date:   2022-01-13 15:36:27
 categories: jekyll update
 ---
 
@@ -36,8 +36,6 @@ Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
 
-{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
-
 {% include image.html url="/images/house_12.jpg"  " width=900 align="center" %}
 
 {% include image.html url="/images/house_13.jpg"  " width=900 align="center" %}
@@ -56,23 +54,3 @@ Needless to say, I had my work cut out for me. First order of business clean the
 
 {% include image.html url="/images/house_20.jpg"  " width=900 align="center" %}
 
-{% include image.html url="/images/house_21.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_22.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_23.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_24.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_25.JPG" caption="Vacuuming the pool." width=900 align="center" %}
-
-{% include image.html url="/images/house_26.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_27.jpg"  " width=900 align="center" %}
-
-Once the garbage was out, We needed to do demolition on the whole house. I have already decided on a full gut. We needed to modernize this house
-
-
-{% include image.html url="/images/house_30.jpg" caption="Knocking down the out of place washroom" width=900 align="center" %}
-
-{% include image.html url="/images/house_31.jpg" caption="Removed all flooring." width=900 align="center" %}
