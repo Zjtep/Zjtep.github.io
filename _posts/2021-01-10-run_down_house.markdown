@@ -55,7 +55,7 @@ Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_19.jpg" caption="They had a kiddy pool on the second floor LOOL" width=900 align="center" %}
 
-Needless to say, we had my work cut out for us. First order of business clean the house.
+Needless to say, I had my work cut out for me. First order of business clean the house.
 
 {% include image.html url="/images/house_20.jpg"  " width=900 align="center" %}
 
@@ -67,8 +67,15 @@ Needless to say, we had my work cut out for us. First order of business clean th
 
 {% include image.html url="/images/house_24.jpg"  " width=900 align="center" %}
 
-{% include image.html url="/images/house_25.JPG" caption="Vacuuming the pool LOL" width=900 align="center" %}
+{% include image.html url="/images/house_25.JPG" caption="Vacuuming the pool." width=900 align="center" %}
 
 {% include image.html url="/images/house_26.jpg"  " width=900 align="center" %}
 
 {% include image.html url="/images/house_27.jpg"  " width=900 align="center" %}
+
+Once the garbage was out, We needed to do demolition on the whole house. I have already decided on a full gut. We needed to modernize this house
+
+
+{% include image.html url="/images/house_30.jpg" caption="Knocking down the out of place washroom" width=900 align="center" %}
+
+{% include image.html url="/images/house_31.jpg" caption="Removed all flooring." width=900 align="center" %}
