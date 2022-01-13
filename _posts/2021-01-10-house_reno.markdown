@@ -89,7 +89,7 @@ Once the garbage was out, We needed to do demolition on the whole house. I have 
 
 {% include image.html url="/images/house_38.jpg" caption="" width=900 align="center" %}
 
-Now with the house fully gutted, we can finally do the renovation. Lets start with the low hanging fruit. Foundational changes for a more open-concept.
+Now with the house fully gutted, we can finally do the renovation. Lets start with the low hanging fruit, open up the walls for open-concept.
 
 {% include image.html url="/images/house_39.jpg" caption="wood prices :(" width=900 align="center" %}
 
@@ -101,4 +101,29 @@ Remove the ugly car port.
 
 {% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_43.jpg" caption="" width=900 align="center" %}
+
+New windows and doors.
+
+{% include image.html url="/images/house_47.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_48.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_49.jpg" caption="" width=900 align="center" %}
+
+Free scrap metal :)
+
+{% include image.html url="/images/house_44.jpg" caption="" width=900 align="center" %}
+
+
+We needed to divide up the laundry room for a new bathroom to replace the one in the living room we demoed. This requires rerouting of plumbing and framing.
+
+{% include image.html url="/images/house_45.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_52.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_51.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_50.jpg" caption="" width=900 align="center" %}
+
+
