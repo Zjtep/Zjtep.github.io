@@ -28,8 +28,51 @@ Here are photos of the house before the crackheads took over. From the beginning
 
 {% include image.html url="/images/house_08.jpg" caption="Grimy carpet." width=900 align="center" %}
 
-{% include image.html url="/images/house_01.JPG" caption="This ugly rotting carport blocks the main entrance." width=900 align="center" %}
-
-
 Here are photos of the house after the crackheads had their run by.
 
+{% include image.html url="/images/house_09.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_10.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_12.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_13.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_14.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_16.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_17.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_18.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_19.jpg" caption="They had a kiddy pool on the second floor LOOL" width=900 align="center" %}
+
+Needless to say, I had my work cut out for me. First order of business clean the house.
+
+{% include image.html url="/images/house_20.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_21.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_22.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_23.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_24.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_25.JPG" caption="Vacuuming the pool." width=900 align="center" %}
+
+{% include image.html url="/images/house_26.jpg"  " width=900 align="center" %}
+
+{% include image.html url="/images/house_27.jpg"  " width=900 align="center" %}
+
+Once the garbage was out, We needed to do demolition on the whole house. I have already decided on a full gut. We needed to modernize this house
+
+
+{% include image.html url="/images/house_30.jpg" caption="Knocking down the out of place washroom" width=900 align="center" %}
+
+{% include image.html url="/images/house_31.jpg" caption="Removed all flooring." width=900 align="center" %}
