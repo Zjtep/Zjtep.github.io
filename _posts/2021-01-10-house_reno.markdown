@@ -55,7 +55,7 @@ Here are photos of the house after the crackheads had their run by.
 Needless to say, I had my work cut out for me. First order of business clean the house.
 
 
-{% include image.html url="/images/house_20.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_20.jpg" caption="First of many bins." width=900 align="center" %}
 
 {% include image.html url="/images/house_21.jpg" caption="" width=900 align="center" %}
 
@@ -101,7 +101,7 @@ Remove the ugly car port.
 
 {% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_43.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_43.jpg" caption="Much more sunlight" width=900 align="center" %}
 
 New windows and doors.
 
@@ -128,7 +128,7 @@ We needed to divide up the laundry room for a new bathroom to replace the one in
 
 With the layout all set up, let's put some skin back on.  electrical(pot lights) + drywall + mudding
 
-{% include image.html url="/images/house_46.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_46.jpg" caption="Pot lights in" width=900 align="center" %}
 
 {% include image.html url="/images/house_53jpg" caption="" width=900 align="center" %}
 
@@ -141,3 +141,23 @@ With the layout all set up, let's put some skin back on.  electrical(pot lights)
 {% include image.html url="/images/house_57.jpg" caption="" width=900 align="center" %}
 
 {% include image.html url="/images/house_59.jpg" caption="" width=900 align="center" %}
+
+Flooring + stairs + bathroom tiling + paint primers
+
+{% include image.html url="/images/house_60.jpg" caption="Tiles for bathroom. Good thing I dont skip leg day" width=900 align="center" %}
+
+{% include image.html url="/images/house_61.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_62.jpg" caption="Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_63.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_64.jpg" caption="Flooring going in" width=900 align="center" %}
+
+{% include image.html url="/images/house_65.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_66.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_67.jpg" caption="Stairs drying" width=900 align="center" %}
+
+
