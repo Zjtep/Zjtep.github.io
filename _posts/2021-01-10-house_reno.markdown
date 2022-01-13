@@ -126,4 +126,18 @@ We needed to divide up the laundry room for a new bathroom to replace the one in
 
 {% include image.html url="/images/house_50.jpg" caption="" width=900 align="center" %}
 
+With the layout all set up, let's put some skin back on.  electrical(pot lights) + drywall + mudding
 
+{% include image.html url="/images/house_46.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_53jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_54.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_55.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_56.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_57.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_59.jpg" caption="" width=900 align="center" %}
