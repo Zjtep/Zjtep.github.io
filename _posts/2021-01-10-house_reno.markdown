@@ -31,3 +31,25 @@ Here are photos of the house before the crackheads took over. From the beginning
 Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_09.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_10.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_11.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_12.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_13.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_14.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_15.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_16.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_17.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_18.jpg" caption="" width=300 align="center" %}
+
+{% include image.html url="/images/house_19.jpg" caption="They had a pool on the second floor" width=300 align="center" %}
+
+Needless to say, I had my work cut out for me. First order of business clean the house.
