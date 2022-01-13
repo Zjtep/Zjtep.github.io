@@ -30,26 +30,62 @@ Here are photos of the house before the crackheads took over. From the beginning
 
 Here are photos of the house after the crackheads had their run by.
 
-{% include image.html url="/images/house_09.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_09.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_10.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_10.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_11.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_11.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_12.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_12.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_13.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_13.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_14.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_14.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_15.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_15.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_16.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_16.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_17.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_17.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_18.jpg" caption="" width=300 align="center" %}
+{% include image.html url="/images/house_18.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_19.jpg" caption="They had a pool on the second floor" width=300 align="center" %}
+{% include image.html url="/images/house_19.jpg" caption="They had a pool on the second floor" width=900 align="center" %}
 
 Needless to say, I had my work cut out for me. First order of business clean the house.
+
+
+{% include image.html url="/images/house_20.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_21.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_22.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_23.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_24.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_25.jpg" caption="sucking up the water from the pool" width=900 align="center" %}
+
+{% include image.html url="/images/house_26.jpg" caption="" width=900 align="center" %}
+
+Once the garbage was out, We needed to do demolition on the whole house. I have already decided on a full gut rebuild to modernized the house
+
+{% include image.html url="/images/house_27.jpg" caption="Bye bye kitchen" width=900 align="center" %}
+
+{% include image.html url="/images/house_30.jpg" caption="Demo that weirdly placed washroom." width=900 align="center" %}
+
+{% include image.html url="/images/house_31.jpg" caption="Lets knock down some walls" width=900 align="center" %}
+
+{% include image.html url="/images/house_32.jpg" caption="Flooring gone" width=900 align="center" %}
+
+{% include image.html url="/images/house_33.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_34.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_35.jpg" caption="We need to tear down these walls for a more open concept." width=900 align="center" %}
+
+{% include image.html url="/images/house_36.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_38.jpg" caption="" width=900 align="center" %}
+
