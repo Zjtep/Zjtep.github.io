@@ -34,23 +34,3 @@ Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_10.jpg"  " width=900 align="center" %}
 
-{% include image.html url="/images/house_11.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_12.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_13.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_14.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_16.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_17.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_18.jpg"  " width=900 align="center" %}
-
-{% include image.html url="/images/house_19.jpg" caption="They had a kiddy pool on the second floor LOOL" width=900 align="center" %}
-
-Needless to say, I had my work cut out for me. First order of business clean the house.
-
-{% include image.html url="/images/house_20.jpg"  " width=900 align="center" %}
-
