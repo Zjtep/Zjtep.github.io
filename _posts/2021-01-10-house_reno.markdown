@@ -89,3 +89,16 @@ Once the garbage was out, We needed to do demolition on the whole house. I have 
 
 {% include image.html url="/images/house_38.jpg" caption="" width=900 align="center" %}
 
+Now with the house fully gutted, we can finally do the renovation. Lets start with the low hanging fruit. Foundational changes for a more open-concept.
+
+{% include image.html url="/images/house_39.jpg" caption="wood prices :(" width=900 align="center" %}
+
+{% include image.html url="/images/house_40.jpg" caption="" width=900 align="center" %}
+
+Remove the ugly car port.
+
+{% include image.html url="/images/house_01.JPG" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
