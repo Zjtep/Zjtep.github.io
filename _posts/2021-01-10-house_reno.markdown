@@ -1,38 +1,37 @@
 ---
 layout: post
-title:  "Crackhouse Renovation"
+title:  "Home Renovations"
 date:   2022-01-13 15:36:27
 categories: jekyll update
 ---
 
 
-Long story short, I came in possession of a run-down crackhouse. I had two options, sell it as it is and take a massive opportunity loss through a contractor flipping my property, or fully restore the house.
-With the amount of work I see, this would be by far my most ambitious restoration. Here is my full journey. 
+I finally got around to documenting this personal project of mine I worked on for most of 2021. Long story short, I ended up acquiring a run-down crack house that needed major renovations. The skillset needed to tackle such a project was well above mine back then. However, I didn't want to lose such a massive learning opportunity.  What you see here is the end result of many trials and errors. With the amount of work I see, this would be by far my most ambitious restoration. Here is my full journey. 
 
 {% include image.html url="/images/house_01.JPG" width=900 align="center" %}
 
 
-Here are photos of the house before the crackheads took over. From the beginning, the house already had its flaws.
+Here are photos of the house before the crackheads took over. It was an older style house that would lack the appeal for a modern buyer.
 
-{% include image.html url="/images/house_06.jpg" caption="The front door leads to a dark hall, with a smaller house, this does nothing for it. " width=900 align="center" %}
+{% include image.html url="/images/house_06.jpg" caption="Straight as you walk in, you will feel claustrophobic from all the walls. This is a flaw of most older homes as newer homes will favor an open concept." width=900 align="center" %}
 
-{% include image.html url="/images/house_03.JPG" caption="Walls plus door separating the living room from the stairs to the kitchen? Much too cramped for any modern house." width=900 align="center" %}
+{% include image.html url="/images/house_03.JPG" caption="The living room(to the left) and the kitchen(right) were seperated with their own entrance ways. This house was modified to also include a half bathroom in the kitchen(not their brightest ideas as IMO that brings negative value)." width=900 align="center" %}
 
-{% include image.html url="/images/house_02.JPG" caption="The kitchen is too small for the amount of area in the room. Note that random bathroom next to the kitchen. wtf?" width=900 align="center" %}
+{% include image.html url="/images/house_02.JPG" caption="The kitchen is too small because they added that random bathroom next to the kitchen." width=900 align="center" %}
 
-{% include image.html url="/images/house_05.jpg" caption="Who the hell modified the house to have a bathroom between the living room and the kitchen on the main floor? wut. It is out of place AND it adds more walls to further cramp the layout" width=900 align="center" %}
+{% include image.html url="/images/house_05.jpg" caption="Why is this even here between the living room and the kitchen? Not only is it out of place, but it also messes with the layout to cause further cramping." width=900 align="center" %}
 
-{% include image.html url="/images/house_04.jpg" caption="The living room shouldn't be walled off like this in modern home" width=900 align="center" %}
+{% include image.html url="/images/house_04.jpg" caption="The living room shouldn't be walled off like this in modern home." width=900 align="center" %}
 
 {% include image.html url="/images/house_07.jpg" caption="storm drain was not set up correctly. " width=900 align="center" %}
 
-{% include image.html url="/images/house_08.jpg" caption="Grimy carpet." width=900 align="center" %}
+{% include image.html url="/images/house_08.jpg" caption="Grimy carpets in the basement. Not the most ideal for anything IMO." width=900 align="center" %}
 
 Here are photos of the house after the crackheads had their run by.
 
-{% include image.html url="/images/house_09.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_09.jpg" caption="For some reason, they were hoarding garbage." width=900 align="center" %}
 
-{% include image.html url="/images/house_10.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_10.jpg" caption="A lot of garbage" width=900 align="center" %}
 
 {% include image.html url="/images/house_11.jpg" caption="" width=900 align="center" %}
 
@@ -50,16 +49,22 @@ Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_18.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_19.jpg" caption="They had a pool on the second floor" width=900 align="center" %}
+{% include image.html url="/images/house_19.jpg" caption="This kiddie pool was on the second-floor main bedroom. I don't even think Bill Gates has a pool in his bedroom." width=900 align="center" %}
 
-Needless to say, I had my work cut out for me. First order of business clean the house.
+{% include image.html url="/images/house_68.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_69.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_70.jpg" caption="" width=900 align="center" %}
+
+Needless to say, I had my work cut out for me. This place was disgusting. The first order of business regardless of what I decide to do with the house is to clean it
 
 
-{% include image.html url="/images/house_20.jpg" caption="First of many bins." width=900 align="center" %}
+{% include image.html url="/images/house_20.jpg" caption="First of many garbage bins." width=900 align="center" %}
 
-{% include image.html url="/images/house_21.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_21.jpg" caption="And we just threw out EVERYTHING" width=900 align="center" %}
 
-{% include image.html url="/images/house_22.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_22.jpg" caption="The neighbours were probably wondering what was going on" width=900 align="center" %}
 
 {% include image.html url="/images/house_23.jpg" caption="" width=900 align="center" %}
 

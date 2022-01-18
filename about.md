@@ -10,5 +10,5 @@ permalink: /about/
 
 <div style="clear: left;">
 
-    <p>Hi! I am Johnny Zhu A software engineer, passionate and curious and furiously pursuing financial independence</p>
+    <p>Hi! I am Johnny Zhu. A software engineer, passionate, curious, and furiously pursuing financial independence</p>
 </div>
