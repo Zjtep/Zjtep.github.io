@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- {% include image.html url="/images/johnny.png" caption="Hi! I am Johnny Zhu A software engineer, passionate and curious to learn new technologies" width=300 align="right" %} -->
 
-{% include image.html url="/images/johnny.png"  width=300 align="right" %}
+{% include image.html url="/images/johnny.png"  width=300 align="center" %}
 
 <div style="clear: left;">
 
