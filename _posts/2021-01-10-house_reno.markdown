@@ -74,27 +74,51 @@ Needless to say, I had my work cut out for me. This place was disgusting. The fi
 
 {% include image.html url="/images/house_26.jpg" caption="" width=900 align="center" %}
 
-Once the garbage was out, We needed to do demolition on the whole house. I have already decided on a full gut rebuild to modernized the house
+Once I have gotten a full look at the house after the cleanup, I decided the best course of action would be to take the house to the twentieth century. Let's get started on the demolition!
 
 {% include image.html url="/images/house_27.jpg" caption="Bye bye kitchen" width=900 align="center" %}
 
 {% include image.html url="/images/house_30.jpg" caption="Demo that weirdly placed washroom." width=900 align="center" %}
 
-{% include image.html url="/images/house_31.jpg" caption="Lets knock down some walls" width=900 align="center" %}
+{% include image.html url="/images/house_31.jpg" caption="Remove damaged drywall" width=900 align="center" %}
 
 {% include image.html url="/images/house_32.jpg" caption="Flooring gone" width=900 align="center" %}
 
 {% include image.html url="/images/house_33.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_34.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_34.jpg" caption="Stripped down to the framing." width=900 align="center" %}
 
-{% include image.html url="/images/house_35.jpg" caption="We need to tear down these walls for a more open concept." width=900 align="center" %}
+{% include image.html url="/images/house_35.jpg" caption="I really hated the compartmental design of the house. These walls next to the stairs needed to go to connect the living room with kitchen." width=900 align="center" %}
 
-{% include image.html url="/images/house_36.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_36.jpg" caption="Upstairs Bathroom" width=900 align="center" %}
 
 {% include image.html url="/images/house_38.jpg" caption="" width=900 align="center" %}
 
-Now with the house fully gutted, we can finally do the renovation. Lets start with the low hanging fruit, open up the walls for open-concept.
+Now with the house fully gutted, we can finally do the renovation.
+
+Let's look at the agenda in order
+
+Update plumbing in the basement for new bathroom + new location for washer/dryer
+Framing out another bathroom for the basement
+Update electrical switches for the house
+Install pot lights for modern concept
+Cut open main floor walls for open-concept
+Reinforce the main floor with beams
+Remove old carport to allow more light into the house
+New windows and doors
+Drywall the house
+Mud the Drywall
+Prime the house for painting
+Hardwood flooring for main and rooms
+Vinyl flooring for basement
+Stairs
+Install shower/bathtub/vanity/toilet  for two bathrooms
+Tile bathrooms
+Finish paint
+Install kitchen
+Yard work
+
+
 
 {% include image.html url="/images/house_39.jpg" caption="wood prices :(" width=900 align="center" %}
 
