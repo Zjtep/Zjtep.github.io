@@ -99,7 +99,8 @@ Now with the house fully gutted, we can finally do the renovation.
 Let's look at the agenda in order
 
 Update plumbing in the basement for new bathroom + new location for washer/dryer
-Framing out another bathroom for the basement
+
+Framing out another bathroom for the basement<\n>
 Update electrical switches for the house
 Install pot lights for modern concept
 Cut open main floor walls for open-concept
