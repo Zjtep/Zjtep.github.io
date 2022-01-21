@@ -100,24 +100,24 @@ Let's look at the agenda in order
 
 Update plumbing in the basement for new bathroom + new location for washer/dryer
 
-Framing out another bathroom for the basement<\n>
-Update electrical switches for the house
-Install pot lights for modern concept
-Cut open main floor walls for open-concept
-Reinforce the main floor with beams
-Remove old carport to allow more light into the house
-New windows and doors
-Drywall the house
-Mud the Drywall
-Prime the house for painting
-Hardwood flooring for main and rooms
-Vinyl flooring for basement
-Stairs
-Install shower/bathtub/vanity/toilet  for two bathrooms
-Tile bathrooms
-Finish paint
-Install kitchen
-Yard work
+    -Framing out another bathroom for the basement
+    -Update electrical switches for the hous
+    -Install pot lights for modern concept
+    -Cut open main floor walls for open-concept
+    -Reinforce the main floor with beams
+    -Remove old carport to allow more light into the house
+    -New windows and doors
+    -Drywall the house
+    -Mud the Drywall
+    -Prime the house for painting
+    -Hardwood flooring for main and rooms
+    -Vinyl flooring for basement
+    -Stairs
+    -Install shower/bathtub/vanity/toilet  for two bathrooms
+    -Tile bathrooms
+    -Finish paint
+    -Install kitchen
+    -Yard work
 
 
 
