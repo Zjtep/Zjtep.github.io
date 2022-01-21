@@ -94,13 +94,15 @@ Once I have gotten a full look at the house after the cleanup, I decided the bes
 
 {% include image.html url="/images/house_38.jpg" caption="" width=900 align="center" %}
 
+{% include image.html url="/images/house_44.jpg" caption="Free scrap metal" width=900 align="center" %}
+
 Now with the house fully gutted, we can finally do the renovation.
 
 Let's look at task which I think is the order of operations
 
     -Update plumbing in the basement for new bathroom + new location for washer/dryer
     -Framing out another bathroom for the basement
-    -Update electrical switches for the hous
+    -Update electrical switches for the house
     -Install pot lights for modern concept
     -Cut open main floor walls for open-concept
     -Reinforce the main floor with beams
@@ -118,16 +120,41 @@ Let's look at task which I think is the order of operations
     -Install kitchen
     -Yard work
 
+Since we demoed the living room bathroom for more space, I needed to add another full bathroom somewhere. We chose the basement laundry area. However, in order to make a bathroom the plumbing needed to be changed. Moreover, the old electrical panel was in that room and it is by law that we cannot put an electrical panel inside a bathroom. we needed to frame out a new room.
+
+{% include image.html url="/images/house_45.jpg" caption="Minon" width=900 align="center" %}
+
+{% include image.html url="/images/house_52.jpg" caption="Updating plumbing for toilet vanity shower and new laundry location." width=900 align="center" %}
+
+{% include image.html url="/images/house_51.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_50.jpg" caption="" width=900 align="center" %}
+
+We needed to update the electrical of the house and install pot lights to the main and bedroom floors. 
+
+{% include image.html url="/images/house_46.jpg" caption="Pot lights in" width=900 align="center" %}
+
+The main floor still had the original farming of the old walls. I wanted an open concept so those had to go. However, that would mess with the structure of the building. We had to brace and reinforce it before we can cut them.
 
 {% include image.html url="/images/house_39.jpg" caption="wood prices :(" width=900 align="center" %}
 
 {% include image.html url="/images/house_40.jpg" caption="" width=900 align="center" %}
 
-Remove the ugly car port.
+{% include image.html url="/images/house_73.jpg" caption="" width=900 align="center" %}
+
+The old carport was outdated and blocked a lot of sunlight from coming in through the east window. It was rotten as well and would be a waste to fix. We had to remove it.
 
 {% include image.html url="/images/house_01.JPG" caption="" width=900 align="center" %}
 
+{% include image.html url="/images/house_92.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_93.jpg" caption="" width=900 align="center" %}
+
 {% include image.html url="/images/house_42.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_72.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_94.jpg" caption="" width=900 align="center" %}
 
 {% include image.html url="/images/house_43.jpg" caption="Much more sunlight" width=900 align="center" %}
 
@@ -139,24 +166,19 @@ New windows and doors.
 
 {% include image.html url="/images/house_49.jpg" caption="" width=900 align="center" %}
 
-Free scrap metal :)
-
-{% include image.html url="/images/house_44.jpg" caption="" width=900 align="center" %}
-
-
 We needed to divide up the laundry room for a new bathroom to replace the one in the living room we demoed. This requires rerouting of plumbing and framing.
 
-{% include image.html url="/images/house_45.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_52.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_51.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_50.jpg" caption="" width=900 align="center" %}
+
+
+
+
 
 With the layout all set up, let's put some skin back on.  electrical(pot lights) + drywall + mudding
 
-{% include image.html url="/images/house_46.jpg" caption="Pot lights in" width=900 align="center" %}
+
 
 {% include image.html url="/images/house_53jpg" caption="" width=900 align="center" %}
 
