@@ -49,7 +49,7 @@ Here are photos of the house after the crackheads had their run by.
 
 {% include image.html url="/images/house_18.jpg" caption="" width=900 align="center" %}
 
-{% include image.html url="/images/house_19.jpg" caption="This kiddie pool was on the second-floor main bedroom. I don't even think Bill Gates has a pool in his bedroom." width=900 align="center" %}
+{% include image.html url="/images/house_19.jpg" caption="This kiddie pool was on the second-floor main bedroom. A pool in the main bedroom, talk about luxury." width=900 align="center" %}
 
 {% include image.html url="/images/house_68.jpg" caption="" width=900 align="center" %}
 
@@ -142,6 +142,8 @@ The main floor still had the original farming of the old walls. I wanted an open
 
 {% include image.html url="/images/house_73.jpg" caption="" width=900 align="center" %}
 
+{% include image.html url="/images/house_91.jpg" caption="" width=900 align="center" %}
+
 The old carport was outdated and blocked a lot of sunlight from coming in through the east window. It was rotten as well and would be a waste to fix. We had to remove it.
 
 {% include image.html url="/images/house_01.JPG" caption="" width=900 align="center" %}
@@ -158,7 +160,7 @@ The old carport was outdated and blocked a lot of sunlight from coming in throug
 
 {% include image.html url="/images/house_43.jpg" caption="Much more sunlight" width=900 align="center" %}
 
-New windows and doors.
+The crackheads made it their job to break all the windows and doors. We needed to replace them.
 
 {% include image.html url="/images/house_47.jpg" caption="" width=900 align="center" %}
 
@@ -166,21 +168,9 @@ New windows and doors.
 
 {% include image.html url="/images/house_49.jpg" caption="" width=900 align="center" %}
 
-We needed to divide up the laundry room for a new bathroom to replace the one in the living room we demoed. This requires rerouting of plumbing and framing.
+With the structural and the layout of the house fixed to standard, it's time to add back on the skin. Drywall and mudding are next. 
 
-
-
-
-
-
-
-
-
-With the layout all set up, let's put some skin back on.  electrical(pot lights) + drywall + mudding
-
-
-
-{% include image.html url="/images/house_53jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_53.jpg" caption="" width=900 align="center" %}
 
 {% include image.html url="/images/house_54.jpg" caption="" width=900 align="center" %}
 
@@ -192,22 +182,41 @@ With the layout all set up, let's put some skin back on.  electrical(pot lights)
 
 {% include image.html url="/images/house_59.jpg" caption="" width=900 align="center" %}
 
-Flooring + stairs + bathroom tiling + paint primers
+With all the drywall in, we had a chance to prime the house for paint. We also finally had room to get all the floorboards/vinal/vanity/toilet/stairs
 
-{% include image.html url="/images/house_60.jpg" caption="Tiles for bathroom. Good thing I dont skip leg day" width=900 align="center" %}
+{% include image.html url="/images/house_60.jpg" caption="Tiles for bathrooms/vanity/floor trimmings" width=900 align="center" %}
 
-{% include image.html url="/images/house_61.jpg" caption="" width=900 align="center" %}
+{% include image.html url="/images/house_61.jpg" caption="walls primed + pile of stuff" width=900 align="center" %}
+
+{% include image.html url="/images/house_79.jpg" caption="walls primed + pile of stuff" width=900 align="center" %}
+
+With the primer in, We had a chance to work on the flooring, tiling, and stairs. Since the house isn't too big,  I went pretty standard and went with white. The most popular shade of white is chantilly lace so that's what I picked. A house has to have a complimenting accented color.  We went with a light grey since it goes very well with white. It's a pretty generic combination and I was hoping this house would appeal to a wider audience. 
+
+{% include image.html url="/images/house_78.jpg" caption="Vinal and hardwood" width=900 align="center" %}
+
+{% include image.html url="/images/house_66.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_65.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_67.jpg" caption="Stairs stained and placed to dry" width=900 align="center" %}
+
+{% include image.html url="/images/house_82.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_64.jpg" caption="Flooring going in" width=900 align="center" %}
+
+Stairs and pegs in.
+
+{% include image.html url="/images/house_88.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_86.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_87.jpg" caption="" width=900 align="center" %}
+
+Bathroom tiling
 
 {% include image.html url="/images/house_62.jpg" caption="Bathroom tiling" width=900 align="center" %}
 
 {% include image.html url="/images/house_63.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
 
-{% include image.html url="/images/house_64.jpg" caption="Flooring going in" width=900 align="center" %}
-
-{% include image.html url="/images/house_65.jpg" caption="" width=900 align="center" %}
-
-{% include image.html url="/images/house_66.jpg" caption="" width=900 align="center" %}
-
-{% include image.html url="/images/house_67.jpg" caption="Stairs drying" width=900 align="center" %}
-
+{% include image.html url="/images/house_81.jpg" caption="We messed up the plumbing and we couldn't fit a standard size 12-inch toilet. Thank god for the random person on Kijiji who had unused 10-inch toilets" width=900 align="center" %}
 
