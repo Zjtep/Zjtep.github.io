@@ -230,12 +230,12 @@ Bathroom tiling
 
 Finish painting + kitchen design
 
-{% include image.html url="/images/house_85.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_85.jpg" caption="Finish painting" width=900 align="center" %}
 
-{% include image.html url="/images/house_76.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_76.jpg" caption="Measurements for kitchen" width=900 align="center" %}
 
-{% include image.html url="/images/house_89.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_89.jpg" caption="Mock up of kitchen" width=900 align="center" %}
 
-{% include image.html url="/images/house_90.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_90.jpg" caption="Mock up of kitchen" width=900 align="center" %}
 
-{% include image.html url="/images/house_75.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_75.jpg" caption="Lets build it" width=900 align="center" %}
