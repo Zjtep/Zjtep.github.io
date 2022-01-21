@@ -204,6 +204,8 @@ With the primer in, We had a chance to work on the flooring, tiling, and stairs.
 
 {% include image.html url="/images/house_64.jpg" caption="Flooring going in" width=900 align="center" %}
 
+{% include image.html url="/images/house_99.jpg" caption="" width=900 align="center" %}
+
 Stairs and pegs in.
 
 {% include image.html url="/images/house_88.jpg" caption="" width=900 align="center" %}
@@ -214,9 +216,26 @@ Stairs and pegs in.
 
 Bathroom tiling
 
-{% include image.html url="/images/house_62.jpg" caption="Bathroom tiling" width=900 align="center" %}
+{% include image.html url="/images/house_62.jpg" caption="Basement Bathroom" width=900 align="center" %}
+
+{% include image.html url="/images/house_95.jpg" caption="" width=900 align="center" %}
 
 {% include image.html url="/images/house_63.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
 
 {% include image.html url="/images/house_81.jpg" caption="We messed up the plumbing and we couldn't fit a standard size 12-inch toilet. Thank god for the random person on Kijiji who had unused 10-inch toilets" width=900 align="center" %}
 
+{% include image.html url="/images/house_83.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_97.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+Finish painting + kitchen design
+
+{% include image.html url="/images/house_85.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_76.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_89.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_90.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
+
+{% include image.html url="/images/house_75.jpg" caption="Second Bathroom tiling" width=900 align="center" %}
