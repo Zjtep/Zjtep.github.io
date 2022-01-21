@@ -96,10 +96,9 @@ Once I have gotten a full look at the house after the cleanup, I decided the bes
 
 Now with the house fully gutted, we can finally do the renovation.
 
-Let's look at the agenda in order
+Let's look at task which I think is the order of operations
 
-Update plumbing in the basement for new bathroom + new location for washer/dryer
-
+    -Update plumbing in the basement for new bathroom + new location for washer/dryer
     -Framing out another bathroom for the basement
     -Update electrical switches for the hous
     -Install pot lights for modern concept
@@ -118,7 +117,6 @@ Update plumbing in the basement for new bathroom + new location for washer/dryer
     -Finish paint
     -Install kitchen
     -Yard work
-
 
 
 {% include image.html url="/images/house_39.jpg" caption="wood prices :(" width=900 align="center" %}
