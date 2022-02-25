@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -10,5 +10,5 @@ permalink: /about/
 
 <div style="clear: left;">
 
-    <p>Hi! I am Johnny Zhu. A software engineer, passionate, curious, and furiously pursuing financial independence</p>
+    <p>Hi! I am Johnny Zhu. A software engineer by day, who is passionate, curious, and furiously pursuing financial freedom</p>
 </div>

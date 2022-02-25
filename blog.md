@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-Here, There, Everywhere. Hopefully it’s cool.
+“The journey has just begun.”
+— Adrian Veidt / Ozymandias
 
 <ul class="listing">
 {% for post in site.posts %}
