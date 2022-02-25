@@ -4,8 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-“The journey has just begun.”
-— Adrian Veidt / Ozymandias
+"The Unexamined Life Is Not Worth Living" 
+-Socrates
 
 <ul class="listing">
 {% for post in site.posts %}
