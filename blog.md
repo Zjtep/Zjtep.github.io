@@ -5,7 +5,6 @@ permalink: /blog/
 ---
 
 "The Unexamined Life Is Not Worth Living" 
--Socrates
 
 <ul class="listing">
 {% for post in site.posts %}
