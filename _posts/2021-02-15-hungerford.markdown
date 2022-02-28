@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Home Renovations Hungerford
+
+{% include image.html url="/images/hungerford/PXL_20220114_171538359.jpg" width=900 align="center" %}
