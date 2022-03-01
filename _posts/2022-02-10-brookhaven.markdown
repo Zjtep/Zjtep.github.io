@@ -239,3 +239,17 @@ Finish painting + kitchen design
 {% include image.html url="/images/house_90.jpg" caption="Mock up of kitchen" width=900 align="center" %}
 
 {% include image.html url="/images/house_75.jpg" caption="Lets build it" width=900 align="center" %}
+
+{% include image.html url="/images/house_102.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_103.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/IMG_20220131_104339.jpg" caption="kijiji" width=900 align="center" %}
+
+{% include image.html url="/images/house_104.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_106.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/house_107.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/PXL_20220227_232200904.jpg" caption="" width=900 align="center" %}
