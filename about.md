@@ -10,5 +10,5 @@ permalink: /about/
 
 <div style="clear: left;">
 
-    <p>Hi! This is Johnny Zhu. A software engineer by day, a drunken karaoke philosopher by night. Imaginative and curious about the world. He spends most of his free time pursuing hobbies and interests. He thinks there are too few hours during the day to spend working a 9-5, so it is his goal to pursue financial freedom by age 35. This is his blog hosted on GitHub because he spent the domain/web hosting budget at Mcdonald's. Please enjoy your time here. </p>
+    <p>Hi! This is Johnny Zhu. A software engineer by day, a drunken KTV philosopher by night. Imaginative and curious about the world, he spends most of his free time pursuing hobbies and interests. He thinks there are too few hours during the day to spend working a 9-5, so it is his goal to pursue financial freedom by age 35. This is his blog hosted on GitHub because he spent the domain/web hosting budget at Mcdonald's. Please enjoy your time here.</p>
 </div>
