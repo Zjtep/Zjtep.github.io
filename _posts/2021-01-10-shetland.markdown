@@ -21,12 +21,8 @@ Home Renovations Shetland
 
 {% include image.html url="/images/shetland/PXL_20210828_191834653.jpg" width=900 align="center" %}
 
-{% include image.html url="/images/shetland/PXL_20211010_121022114.jpg" width=900 align="center" %}
-
 {% include image.html url="/images/shetland/PXL_20211010_121442049.jpg" width=900 align="center" %}
 
 {% include image.html url="/images/shetland/PXL_20211010_121446452.jpg" width=900 align="center" %}
 
 {% include image.html url="/images/shetland/PXL_20211107_132823830.jpg" width=900 align="center" %}
-
-{% include image.html url="/images/shetland/PXL_20211107_132824728.jpg" width=900 align="center" %}
