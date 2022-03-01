@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Home Renovations Shetland"
+title:  "Home Renovations - Shetland"
 date:   2020-08-10 15:36:27
 categories: jekyll update
 ---
