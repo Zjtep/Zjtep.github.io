@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-"The Unexamined Life Is Not Worth Living" 
+"No Great Mind Has Ever Existed Without A Touch Of Madness." 
 
 <ul class="listing">
 {% for post in site.posts %}
