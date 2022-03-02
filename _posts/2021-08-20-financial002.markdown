@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Financial - My Prospective of TFSA vs RRSP for young Canadians PART 2"
+date:   2020-02-13 15:36:27
+categories: jekyll update
+---
+
+
+
+Check out part 1 for context. A further reminder this isn't financial advice, I am just a babbling idiot typing on the internet while listening to Beyonce on repeat. 
+
+
+Should I contribute to TFSA or RRSP?
+
+
+Like everything in life it really depends on your life situation.  If I have to choose between the two, the RRSP is the ideal option in a common but specific set of circumstances. That generally applies when you’re investing long-term for retirement, you’re in a reasonably high tax bracket right now when you contribute, and you expect to enjoy a typical middle-class retirement in a somewhat lower tax bracket. While for everything else, I believe TFSA has all the advantages in every other situation, whether investing long-term for retirement or for a shorter-term goal.
+
+
+With an RRSP, you get a tax deduction up front from making a contribution — generally resulting in a tax rebate — but all the money becomes fully taxable when you eventually take it out. The TFSA is the opposite: you don’t get a tax rebate on contributions, but you don’t pay tax on withdrawals either. Speaking from a young working professional in Toronto, I think there is a clear choice of winner. I am still relatively early in my career and a decade from now, I will most likely be earning more money. It will be a lot more advantageous to contribute to RRSP when I start peaking in my career than right now to get a bigger tax break. TFSA is far more flexible. Dipping into a TFSA never has a tax impact, whereas you can expect to receive a big tax bill if you need to draw on your RRSP for a sudden need while you’re still earning a good salary that puts you in a high tax bracket. Life is still long for us young people, you may THINK you don't need this money until you retirement, but things change. I can think of many reasons for young professionals to want to withdraw their RRSP in the journey of life. You might lose your job, you may wish to purchase a house(there is a trick for this, go ask IRL), start a business, etc but you will get taxed as soon as you withdraw it from an RRSP. There is no such penalty for TFSA.
+
+
+What should I buy inside my TFSA or RRSP?
+
+
+Here is some "No's"
+
+
+Cash - Don't waste your contribution room with cash. just leave this in your checking account or something. 
+
+
+Guaranteed Income Certificates (GIC) - This shit doesn't even beat inflation with their 2-3 percent.  Scam
+
+
+Mutual Funds - This is okay... But if you're going to buy Mutual Funds, why not buy index funds/ETF.  The key difference is that you're buying the mutual fund directly from the fund company, whereas in the ETF you're buying from another person on the market. The fees for mutual funds are disgusting(2 percent?) vs ETFs are around(0.1 percent)  The choice is clear
+
+
+Here is some "maybes ~ yes"
+
+
+Individual Stocks and Bonds - This is good,  however i would like to link to the wise words of Warren Buffet. “I don’t think most people are in a position to pick single stocks,” he said during the Berkshire Hathaway annual shareholders meeting, which was held virtually this year from Omaha, Nebraska. “A few [are ], maybe, but on balance, I think people are much better off buying a cross-section of America and just forgetting about it.” Rather than owning just one or a few stocks, you’re better off owning a bunch of different companies. Some of your shares will likely take off, while others will remain neutral and some will drop. History shows you should see favorable long-term results. 
+
+
+Cryptocurrencies - High-risk high reward. Do some real research and understand the technology. Not off some 30 second video of tiktok. Please stop linking me 15-second videos of some person who made a lot of money off some coin, I don't care.
+
+Here is some Yes's
+
+
+ETFs and Index Funds - This is the one I recommend for 90 percent of people talking to me. Index funds are similar to mutual funds in that they are a basket of stocks, bonds, commodities, etc. But unlike mutual funds, there isn't some fund manager there getting a huge cut of 2 percent off your earnings. For example, an index fund that tracks the S&P 500 will hold stocks that represent the composition of the S&P 500, and investors who hold that index fund are theoretically hoping to replicate the S&P’s annual return (i.e. market return). You may be trading stocks, but you are not a day trader. This is thing people get confused about. You aren't some Wallstreet daytrader when you purchase this index fund. You do not have to buy low sell high and monitor the stock market everyday.  You just purchase an index fund of your choice and just hold.
+
+
+In short, if you’re looking for a good, reliable place to invest your money, go with low-cost index funds. And stay the course, even when you see market fluctuations or a bad headline. Just keep buying and holding through thick and thin. 
+
+
+Millionaire Teacher: The Nine Rules of Wealth You Should Have Learned in School  - by Andrew Hallam
+Wealthing Like Rabbits: An Original and Occasionally Hilarious Introduction to the World of Personal Finance by Robert Brown

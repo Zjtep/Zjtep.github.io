@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Philosophy - The greatest wealth is to live content with little"
+title:  "Philosophy - The Greatest Wealth is to Live Content with Little"
 date:   2020-01-10 15:36:27
 categories: jekyll update
 ---
