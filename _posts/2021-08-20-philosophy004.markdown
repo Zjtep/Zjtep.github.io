@@ -5,10 +5,10 @@ date:   2022-01-10 15:36:27
 categories: jekyll update
 ---
 
-Someone presented this question to me. The argument he had was any intelligent person would be amoral and cheat if you can get away with it. Even if there were moral truths, why would he care? Because God or society will punish him if he doesn't? Or because if everyone didn't care, there'd be chaos? Or because he'll be a "better person" if he doesn't cheat? Aren't these all just ultimately appeals to egoism? Don't all justifications for ethical behaviour eat their own tails?
+Someone presented this question to me. The argument he had was any intelligent person would be amoral and cheat if you can get away with it. He argues even if there were moral truths, why would he care? Will God or society will punish him if he doesn't? Or because if everyone didn't care, there'd be chaos? Or because he'll be a "better person" if he doesn't cheat? He expresses that all that is just ultimately appealing to egoism. But, it doesn't at all justifications for ethical behavior
 
 
-I had no argument against it, because at that time, he sounded correct to me. If somebody  doesn’t fear god or if society cannot catch him, why would he care if he cheats or does anything amoral?  Somebody referred me to this passage from Plato that deals with the exact situation. Here is the quote
+At the time, I had no counterpoints against it.  If a person doesn't get caught by society and has no fear of God, why won't he just cheat or does anything amoral?  But he could not be right. There is definitely some sort of driving force that pushes a human to do in what our society defines as 'good'. Someone told me to refer to this passage from Plato that deals with the exact situation. Here is the quote
 
 
 To possess justice as a virtue is the best thing one can have for one's self, for to prioritize the smaller good things like wine, money, pleasure, food is a lesser good that is subject to the fragility of human existence.
@@ -20,6 +20,9 @@ Justice and the virtues and wisdom are worth pursuing for their own sake (friend
 On top of this, those who are said to possess the virtues are said to have led a good life. Aristotle and plato both believe the common end of human life was goodness of a less-fragile sort than wealth and power.
 
 
+An example would be.
+
+
 Kim Jung Un, dictator of north Korea, has lots of things. He has wealth, power, and can basically do whatever he wants.
 
 
@@ -29,10 +32,13 @@ Yet, do you think he is actually happy? Do you think he goes to bed without worr
 Yes, there are people in this world who do evil things, and are seemingly rewarded for it. But you must ask yourself how fulfilling/happy their lives truly are, behind the artifice of fame, fortune, and power. I'm not convinced a lot of these people are happy.
 
 
-I was very impressed with the answer and did some research on Virtue Theory. In moral philosophy, which is basically people telling you what you should do in general, the three biggest schools of thought are consequentialism, deontology, and virtue ethics. Consequentialism says that we determine what to do based on what might happen as a result of our actions. For example, let's say your friend was drowning in the pool. Consequentialism would tell you to save him as all human lives are valuable.
+I was very impressed with the answer and went home and did further some research. The topic he was referring to was Virtue Theory and the Golden Rule. In moral philosophy, which is basically people telling you what you should do in general, the three biggest schools of thought are consequentialism, deontology, and virtue ethics. Consequentialism says that we determine what to do based on what might happen as a result of our actions. For example, let's say your friend was drowning in the pool. Consequentialism would tell you to save him as all human lives are valuable.
 
 
-Deontology is completely different. Instead of following what might happen, deontology tells you to follow rules, in particular, the Golden Rule you just learned about in school (since you're five). Don't remember it? Do unto others as you would do to yourself or something like that. However, this doesn't mean you have to save your friend from drowning. Deontology just says that it would be good to save your friend, but not that you absolutely have to. This is because you don't break a rule by choosing not to do something; you only break rules if you do certain, bad things like lying or killing people. (Note: Yes, I know deontology can generate positive obligations, but that's considered high brow stuff even in the philosophy world.)
+Deontology is completely different. Instead of following what might happen, deontology tells you to follow rules, in particular, the Golden Rule you just learned about in school (since you're five).  Do unto others as you would do to yourself or something like that. However, this doesn't mean you have to save your friend from drowning. Deontology just says that it would be good to save your friend, but not that you absolutely have to. This is because you don't break a rule by choosing not to do something; you only break rules if you do certain, bad things like lying or killing people.
 
 
-Virtue ethics then is the last one. Virtue ethics rejects universal rules like in deontology and looking to what may happen as in consequentialism. Virtue ethics instead says that we should do things in line with our character as human beings. That means that everyone has different things to do as everyone is different, but we all have some things to do in common as we are all human beings. This is one of the problems of virtue ethics: what about us tells us what to do, anyways? Some virtue ethicists say that we have to save your friend from drowning under virtue ethics because helping people is either part of the human character or we should help your friend because it says good things about your personal character.
+Virtue ethics then is the last one. Virtue ethics rejects universal rules like in deontology and looks to what may happen as in consequentialism. Virtue ethics instead says that we should do things in line with our character as human beings. That means that everyone has different things to do as everyone is different, but we all have some things to do in common as we are all human beings. This is one of the problems of virtue ethics: what about us tells us what to do, anyway? Some virtue ethicists say that we have to save our friend from drowning under virtue ethics because helping people is either part of the human character or we should help your friend because it says good things about your personal character.
+
+https://plato.stanford.edu/entries/justice-virtue/
+https://en.wikipedia.org/wiki/Virtue_ethics
