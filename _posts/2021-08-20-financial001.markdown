@@ -5,47 +5,34 @@ date:   2020-02-13 15:36:27
 categories: jekyll update
 ---
 
-I can't even count the number of times I facepalmed when I hear people talking about their TFSA and RRSP accounts. This is a dumbass's guide to these two accounts. If you have this link, most likely you were saying something really stupid many many times to a point where it was enough for me to finally feel like I should correct you. Every year during tax season I get bombarded with the same questions like How much should I contribute to my RRSP? Wouldn't it make sense for me to contribute to my RRSP because I wanna lower my tax bracket?  Should I still prioritize TFSA over RRSP? What are you doing, can I just copy? Try and read and understand this and then ask me questions. Furthermore, this is not financial advice. All this is from my perspective, experience, and research as a young Canadian. Please do your own research before saying Johnny told you to yolo on SHIBA.
+I cannot count the number of times I facepalmed when I hear people talking about their TFSA and RRSP accounts. In general, I keep my mouth shut,mind my own business and let people do and believe what they want. However, sometimes people come to me and ask for my perspective and guidance and I end up having the same conversation with different people. This is a basic guide for these two accounts. If I sent you this link, most likely you were saying something really stupid multiple times to a point where my patience wore out. This guide is what I feel a majority of people should have set up. Obviously there are many people that are exceptions. However, I feel even if you are the exception, knowing this setup is a good benchmark for any business or investment you have going forward. Try to read and understand this and then ask me IRL if you have any questions. Furthermore, this is not financial advice. I’m not here trying to sell a course or get popular on social media. All of this is from my perspective, experience, and research as a young Canadian pursuing FIRE. Please do your own research before saying Johnny told you to yolo on SHIBA.
+ 
 
+“What is a TFSA account?”
+ 
+Think of your TFSA as a magic box. If you are Canadian, you only have 1 of these boxes your entire life. Every bank or institution that offers TFSA services is ALL linked to the same box. So let's say you have a TFSA account with TD bank and one with CIBC, they are both just proxies going into the same TFSA account. Any investment placed inside this TFSA box will grow faster than it would outside of the box. This is because inside the box there is no tax. So say Spongebob put $1000 in a TFSA box and he somehow ended up with $1,001,000 from his investments. That $1,001,000  is all his. He can withdraw it, spend it, burn it, it doesn’t matter, that $1,001,000 is Spongebob's money because everything he earned in that TFSA box is tax free. Moreover, Let’s say Spongebob did the same $1000 investment outside of a TFSA account and ended up with $1,001,000. That 1,000,000 he got from his investment will be taxed. In Canada, 50% of the value of any capital gains are taxable. Should you sell the investments at a higher price than you paid (realized capital gain) — you'll need to add 50% of the capital gain to your income. This is a whole other discussion so just know, you will earn more if you are not taxed.
+ 
+You can put lots of different investments inside the TFSA box. This would include a GIC, stocks, bonds, mutual funds, index ETFs etc. Anything inside the TFSA will grow tax free. This is a big advantage over time. So we would prefer to use our TFSA for investments that grow fast and could incur a lot of tax. Reminder, anything you earn is your money and you can withdraw it tax free.
+Every year the TFSA box grows larger. On January 1st every year, the TFSA box grows a bit larger so that you can put more investments inside the box.  Google a calculator to see how much room you have in your TFSA account.
+ 
+What have we learned so far? A TFSA is a magic box that contains all your investments and everything that grows in it is tax-free. As long as there is room inside the box, it would probably be in your best interest to fill it entirely since it’s tax-free.
+ 
 
-"What is a TFSA account?"
+“What is a RRSP account?”
 
-
-Think of your TFSA as a magic box. You only have 1 of these boxes your entire life. Every bank or institution that offers TFSA services is ALL linked to the same box. so say you have a TFSA account with wealth simple and a TFSA account with CIBC, it's just a proxy going into the same TFSA account. This box is magic. Anything placed inside this TFSA box will grow faster than it would outside of the box. This is because inside the box there is no tax. So say Spongebob put $100 in a TFSA box with a 10 percent interest rate a year. After one year, Spongebob might have $110 because he didn't get taxed on the gains. If Spongebob puts that same $100 outside of a TFSA, the $10 gained will be taxed, so you get maybe $7 instead of $10.
-
-
-You can put lots of different things inside the box, it’s entirely up to you, but we normally prefer to put things inside the box that grow big and grow fast. So this would inlcude savings account, a GIC, stocks, bonds, mutual funds, index ETFs etc. Anything inside the TFSA will grow tax free. This is a big advantage over time. So we would prefer to use our TFSA for investments that grow fast and could incur a lot of tax.
-
-
-Every year the magic box naturally grows larger. Each year on January 1st, the magic box grows a bit larger so that you can put more stuff inside the box. So every year on January 1st, the amount you can put into this box grows by $6,000 (this changes sometimes)
-
-
-You can take things out of the box at any time, but you can only put things into the box if there is room. So if you have $5000 in your TFSA, you can take it out anytime you want tax-free. There is no penalty for taking money out
-
-
-So what have we learned? A TFSA is a magic box that contains all your investments and everything that grows in it is tax-free. As long as there is room inside the box, it would probably be in your best interest to fill it entirely since it's tax-free.
-
-
-"What is a RRSP account?"
-
-
-The RRSP is also a magic box. You also only have 1 of these boxes your entire life. Every bank or institution that offers RRSP services is ALL linked to the same box. so say you have a RRSP account with wealth simple and a RRSP account with CIBC, it's just a proxy going into the same RRSP account.
-
-
-If you put things into this RRSP box, you get a kickback on taxes that would have been charged to you if you placed those things outside of the box. If a contribution is made with post-tax income then you’ll get your tax back at the end of the year. So you know that money you get from your day job? that is counts as post-tax money because Uncle Sam already took his cut as soon as you get your paycheck. If you contribute to an RRSP,  you will get whatever Uncle Sam took depending on your tax bracket.
-
-
-Everything you put into the TFSA can also be put into an RRSP.  So this would inlcude savings account, a GIC, stocks, bonds, mutual funds, index ETFs etc.
-
-
-You can take things out of the RRSP box at any time without penalty. However, as soon as you take the money out, you will get taxed on it again. This withholding tax is just a pre-payment of your annual taxes, it's not a penalty.
-
-
-RRSP accounts help you defer tax, you won’t avoid tax all together, you just defer tax until retirement. This is why RRSPs are especially popular with high income individuals. They can defer tax until retirement when they’re in a lower tax rate.
+The RRSP is also a magic box. You also only have 1 of these boxes your entire life. Every bank or institution that offers RRSP services is ALL linked to the same box. So say you have a RRSP account with wealth simple and a RRSP account with CIBC, it’s just a proxy going into the same RRSP account.
+ 
+If you put things into this RRSP box, you get a kickback on taxes that would have been charged to you if you placed those things outside of the box. So you know that paycheque you get from your day job? You notice that it's lower than the amount you are promised? That is because that money is post-tax money. You got taxed as soon as you got paid. If a contribution is made with post-tax income then you’ll get your tax back at the end of the year.
+ 
+Everything you put into the TFSA can also be put into an RRSP. So this would include a savings account, a GIC, stocks, bonds, mutual funds, index ETFs etc.
+ 
+You can take things out of the RRSP box at any time without penalty. However, as soon as you take the money out, you will get taxed on it again. Since you got the tax back when you first put the money in, as soon as you take it out, you get taxed again.
+ 
+RRSP accounts help you defer tax, but you won’t avoid tax all together, you just defer tax until you withdraw it.  This is why RRSPs are especially popular with high income individuals. They can defer tax until retirement when they’re at a lower tax rate since they are no longer working.
 
 
 
 _________________________
 
 
-Go check out part #2 for my options
+Now that we know what these accounts are. Move on to part 2
