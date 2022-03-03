@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Financial - My Prospective of TFSA vs RRSP for young Canadians PART 2"
-date:   2020-02-13 15:36:27
+date:   2018-02-13 15:36:27
 categories: jekyll update
 ---
 
@@ -52,3 +52,9 @@ _________________________
 Millionaire Teacher: The Nine Rules of Wealth You Should Have Learned in School  - by Andrew Hallam
 
 Wealthing Like Rabbits: An Original and Occasionally Hilarious Introduction to the World of Personal Finance by Robert Brown
+
+https://canadiancouchpotato.com/model-portfolios/
+
+https://canadiancouchpotato.com/2020/01/28/how-to-set-up-a-hands-off-etf-portfolio/
+
+https://www.moneysense.ca/save/investing/etfs/the-moneysense-etf-finder-tool/

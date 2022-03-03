@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Philosophy - Why are Humans Motivated to be Moral?"
-date:   2020-05-16 15:36:27
+date:   2018-05-16 15:36:27
 categories: jekyll update
 ---
 

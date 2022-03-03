@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Philosophy - Life is not a problem to be solved, but a reality to be experienced"
-date:   2021-08-25 15:36:27
+date:   2019-08-25 15:36:27
 categories: jekyll update
 ---
 
