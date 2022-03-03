@@ -12,85 +12,85 @@ Here is a list I compiled of some of my favorites over the years. There are also
 
 Financial
 
-{% highlight ruby %}
-Millionaire Teacher
-Wealthing Like Rabbits
-Rich Dad Poor Dad
-Snowball - Warren Buffet
-How to make money in stocks
-Encyclopedia of Candlesticks
-30 days to Market Mastery
-Encyclopedia of Charts and Patterns
-How I made 2m in the stock market
-Think and Grow Rich: This Book Could Be Worth a Million Dollars to You
-{% endhighlight %}
+<p>
+Millionaire Teacher <br>
+Wealthing Like Rabbits <br>
+Rich Dad Poor Dad <br>
+Snowball - Warren Buffet<br>
+How to make money in stocks<br>
+Encyclopedia of Candlesticks<br>
+30 days to Market Mastery<br>
+Encyclopedia of Charts and Patterns<br>
+How I made 2m in the stock market<br>
+Think and Grow Rich: This Book Could Be Worth a Million Dollars to You<br>
+</p>
 
 Self-Development
 
-{% highlight ruby %}
-The 7 Habits of Highly Effective People  - Stephen R. Covey 
-The World's 100 Greatest Speeches  Terry O'Brien 
-How to Win Friends and Influence People
-Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain
-Extreme Ownership
-12 Rules for Life
-Can't Hurt Me: Master Your Mind and Defy the Odds 
-The Subtle Art of Not Giving a F*ck
-The Art of War
-Never Split the Difference: Negotiating As If Your Life Depended On It
-Ten Days to Self Esteem David burns CTE
-Clinical Psychology 5th edition
-The Power of Your Subconscious Mind: Unlock the Secrets Within
-How to Think More Effectively: A Guide to greater productivity, insight, and creativity
-A Simpler Life: A guide to greater serenity, ease, and clarity
-{% endhighlight %} 
+<p>
+The 7 Habits of Highly Effective People  - Stephen R. Covey <br>
+The World's 100 Greatest Speeches  Terry O'Brien <br>
+How to Win Friends and Influence People<br>
+Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain<br>
+Extreme Ownership<br>
+12 Rules for Life<br>
+Can't Hurt Me: Master Your Mind and Defy the Odds <br>
+The Subtle Art of Not Giving a F*ck<br>
+The Art of War<br>
+Never Split the Difference: Negotiating As If Your Life Depended On It<br>
+Ten Days to Self Esteem David burns CTE<br>
+Clinical Psychology 5th edition<br>
+The Power of Your Subconscious Mind: Unlock the Secrets Within<br>
+How to Think More Effectively: A Guide to greater productivity, insight, and creativity<br>
+A Simpler Life: A guide to greater serenity, ease, and clarity<br>
+</p>
 
 Philosophy
 
-{% highlight ruby %}
-The Autobiography of Malcolm X
-The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure
-Plato: Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo 
-The Trial and Death of Socrates Plato 
-Thoughts of Marcus Aurelius Antoninus 
-The World as Will and Representation Arthur Schopenhauer
-Beyond Good & Evil, by Friedrich Nietzsche
-Nietzsche: A Philosophical Biography
-Big Ideas for Curious Minds: An Introduction to Philosophy 
-The Art of Living: Socratic Reflections from Plato to Foucault
-The Psychopathology of Everyday Life (Complete Psychological Works of Sigmund Freud)
-Nicomachean Ethics and Politics Aristotle
-Aristotle: The Complete Aristotle
-Metaphysics  Aristotle
-The Trouble with Being Born  Emil Cioran
-The Art of Happiness by Epicurus 
-Great Thinkers: Simple Tools from 60 Great Thinkers to Improve Your Life Today
-Meditations Marcus Aurelius
-{% endhighlight %}
+<p>
+The Autobiography of Malcolm X <br>
+The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure <br>
+Plato: Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo  <br>
+The Trial and Death of Socrates Plato  <br>
+Thoughts of Marcus Aurelius Antoninus  <br>
+The World as Will and Representation Arthur Schopenhauer <br>
+Beyond Good & Evil, by Friedrich Nietzsche <br>
+Nietzsche: A Philosophical Biography <br>
+Big Ideas for Curious Minds: An Introduction to Philosophy  <br>
+The Art of Living: Socratic Reflections from Plato to Foucault <br>
+The Psychopathology of Everyday Life (Complete Psychological Works of Sigmund Freud) <br>
+Nicomachean Ethics and Politics Aristotle <br>
+Aristotle: The Complete Aristotle <br>
+Metaphysics  Aristotle <br>
+The Trouble with Being Born  Emil Cioran <br>
+The Art of Happiness by Epicurus  <br>
+Great Thinkers: Simple Tools from 60 Great Thinkers to Improve Your Life Today <br>
+Meditations Marcus Aurelius <br>
+</p>
 
 Religion
 
-{% highlight ruby %}
-Zen Mind, Beginner's Mind
-The Qur'an
-The Complete Confucius: The Analects, The Doctrine Of The Mean
-The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation
-Buddhism: Beginner’s Guide to Understanding & Practicing Buddhism to Become Stress and Anxiety Free
-No Mud, No Lotus: The Art of Transforming Suffering
-The Sacred Path to Islam: A Guide to Seeking Allah (God) & Building a Relationship
+<p>
+Zen Mind, Beginner's Mind<br>
+The Qur'an<br>
+The Complete Confucius: The Analects, The Doctrine Of The Mean<br>
+The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation<br>
+Buddhism: Beginner’s Guide to Understanding & Practicing Buddhism to Become Stress and Anxiety Free<br>
+No Mud, No Lotus: The Art of Transforming Suffering<br>
+The Sacred Path to Islam: A Guide to Seeking Allah (God) & Building a Relationship<br>
 Tao Te Ching  Lao Tzu
-{% endhighlight %}
+</p>
 
 Romance
 
-{% highlight ruby %}
-Modern Romance: An Investigation
-The Game by Neil Strauss
-Rules of The Game
-The Power of Style - Annette Tapert
-Pride and Avarice - Nicholas Coleridge
-40 days of dating - Timothy Goodman & Jessica Walsh
-Feeling Good – The New Mood Therapy
-Feeling Good Together
-Intimate Connections
-{% endhighlight %}
+<p>
+Modern Romance: An Investigation<br>
+The Game by Neil Strauss<br>
+Rules of The Game<br>
+The Power of Style - Annette Tapert<br>
+Pride and Avarice - Nicholas Coleridge<br>
+40 days of dating - Timothy Goodman & Jessica Walsh<br>
+Feeling Good – The New Mood Therapy<br>
+Feeling Good Together<br>
+Intimate Connections<br>
+</p>
