@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Book - Recommendation List"
+date:   2021-06-20 15:36:27
+categories: jekyll update
+---
+
+
+People close to me know I enjoy reading a lot during my freetime. They would ask me to recommend books on certain topics and I feel when I get put on the spot, I could not give them a good answer.
+Here is a list I compiled of some of my favorites over the years. There are also some in here that I still have to finish and reread to really understand. This list isn’t updated in any way and will most likely be different by the time you read this, but there is plenty of material here for you to get started. Hit me up if you want to know what I am currently reading.
+
+
+Financial
+
+{% highlight ruby %}
+Millionaire Teacher
+Wealthing Like Rabbits
+Rich Dad Poor Dad
+Snowball - Warren Buffet
+How to make money in stocks
+Encyclopedia of Candlesticks
+30 days to Market Mastery
+Encyclopedia of Charts and Patterns
+How I made 2m in the stock market
+Think and Grow Rich: This Book Could Be Worth a Million Dollars to You
+{% endhighlight %}
+
+Self-Development
+
+{% highlight ruby %}
+The 7 Habits of Highly Effective People  - Stephen R. Covey 
+The World's 100 Greatest Speeches  Terry O'Brien 
+How to Win Friends and Influence People
+Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain
+Extreme Ownership
+12 Rules for Life
+Can't Hurt Me: Master Your Mind and Defy the Odds 
+The Subtle Art of Not Giving a F*ck
+The Art of War
+Never Split the Difference: Negotiating As If Your Life Depended On It
+Ten Days to Self Esteem David burns CTE
+Clinical Psychology 5th edition
+The Power of Your Subconscious Mind: Unlock the Secrets Within
+How to Think More Effectively: A Guide to greater productivity, insight, and creativity
+A Simpler Life: A guide to greater serenity, ease, and clarity
+{% endhighlight %} 
+
+Philosophy
+
+{% highlight ruby %}
+The Autobiography of Malcolm X
+The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure
+Plato: Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo 
+The Trial and Death of Socrates Plato 
+Thoughts of Marcus Aurelius Antoninus 
+The World as Will and Representation Arthur Schopenhauer
+Beyond Good & Evil, by Friedrich Nietzsche
+Nietzsche: A Philosophical Biography
+Big Ideas for Curious Minds: An Introduction to Philosophy 
+The Art of Living: Socratic Reflections from Plato to Foucault
+The Psychopathology of Everyday Life (Complete Psychological Works of Sigmund Freud)
+Nicomachean Ethics and Politics Aristotle
+Aristotle: The Complete Aristotle
+Metaphysics  Aristotle
+The Trouble with Being Born  Emil Cioran
+The Art of Happiness by Epicurus 
+Great Thinkers: Simple Tools from 60 Great Thinkers to Improve Your Life Today
+Meditations Marcus Aurelius
+{% endhighlight %}
+
+Religion
+
+{% highlight ruby %}
+Zen Mind, Beginner's Mind
+The Qur'an
+The Complete Confucius: The Analects, The Doctrine Of The Mean
+The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation
+Buddhism: Beginner’s Guide to Understanding & Practicing Buddhism to Become Stress and Anxiety Free
+No Mud, No Lotus: The Art of Transforming Suffering
+The Sacred Path to Islam: A Guide to Seeking Allah (God) & Building a Relationship
+Tao Te Ching  Lao Tzu
+{% endhighlight %}
+
+Romance
+
+{% highlight ruby %}
+Modern Romance: An Investigation
+The Game by Neil Strauss
+Rules of The Game
+The Power of Style - Annette Tapert
+Pride and Avarice - Nicholas Coleridge
+40 days of dating - Timothy Goodman & Jessica Walsh
+Feeling Good – The New Mood Therapy
+Feeling Good Together
+Intimate Connections
+{% endhighlight %}
