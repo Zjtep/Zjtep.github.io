@@ -15,8 +15,6 @@ Home Renovations Hungerford
 
 {% include image.html url="/images/hungerford/PXL_20220119_161702431.jpg" width=900 align="center" %}
 
-{% include image.html url="/images/hungerford/PXL_20220127_152650766.jpg" width=900 align="center" %}
-
 {% include image.html url="/images/hungerford/PXL_20220127_152810791.jpg" width=900 align="center" %}
 
 {% include image.html url="/images/hungerford/PXL_20220127_164728287.jpg" width=900 align="center" %}

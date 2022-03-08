@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Home Renovations - Alison"
+date:   2022-02-15 15:36:27
+categories: jekyll update
+---
+
+Home Renovations Alison
+
+
+New year, new project. This time I acquired a house halfway through renovations. Lets to finish the build.
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X55155.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515502.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515503.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515504.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515505.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515506.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515507.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515508.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515509.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515511.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515512.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515513.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515514.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515516.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515517.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515518.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X5515519.jpg" width=900 align="center" %}
+
+{% include image.html url="/images/alison/5-alison-avenue-cambridge-X551550910.jpg" width=900 align="center" %}
+
