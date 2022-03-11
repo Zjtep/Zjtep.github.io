@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Philosophy - What is yours Today, Belonged to Someone else Yesterday"
+title:  "[Philosophy] What is yours Today, Belonged to Someone else Yesterday"
 date:   2019-11-24 15:36:27
 categories: jekyll update
 ---

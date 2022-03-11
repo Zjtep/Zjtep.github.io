@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Home Renovations - Brookhaven"
+title:  "[Home Renovations] Brookhaven"
 date:   2022-02-10 15:36:27
 categories: jekyll update
 ---
