@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-"No Great Mind Has Ever Existed Without A Touch Of Madness." 
+“Knowing yourself is the beginning of all wisdom.”
 
 <ul class="listing">
 {% for post in site.posts %}
