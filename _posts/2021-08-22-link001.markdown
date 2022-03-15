@@ -1,5 +1,5 @@
 ---
-title: External Posts in Jekyll
+title: "[Personal Development] How to be More Proactive at Work and in Life"
 layout: external
 external_url: https://clockify.me/blog/managing-time/be-proactive/
 ---
