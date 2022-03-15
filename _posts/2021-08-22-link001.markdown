@@ -2,5 +2,5 @@
 title: "[Personal Development][Link] How to be More Proactive at Work and in Life"
 layout: external
 external_url: https://clockify.me/blog/managing-time/be-proactive/
-date:   2022-08-23 15:36:27
+date:   2022-08-03 15:36:27
 ---
