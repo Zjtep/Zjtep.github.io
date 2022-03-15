@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "[link][Personal Development] How to be More Proactive at Work and in Life"
+date:   2021-07-02 15:36:27
+categories: jekyll update
+---
+
+https://clockify.me/blog/managing-time/be-proactive/
