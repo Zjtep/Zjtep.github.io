@@ -32,9 +32,8 @@ Self-Development
 
 <p>
 The 7 Habits of Highly Effective People  - Stephen R. Covey <br>
-The World's 100 Greatest Speeches  Terry O'Brien <br>
 How to Win Friends and Influence People<br>
-INTJ Understood: Harness your Strengths and Thrive as the Unstoppable Mastermind Dan Johnston <br>
+The World's 100 Greatest Speeches  Terry O'Brien <br>
 Never Split the Difference: Negotiating As If Your Life Depended On It<br>
 Extreme Ownership<br>
 12 Rules for Life<br>
@@ -53,12 +52,16 @@ A Simpler Life: A guide to greater serenity, ease, and clarity<br>
 Philosophy
 
 <p>
-The Autobiography of Malcolm X <br>
-The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure <br>
 Plato: Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo  <br>
+The Art of Happiness by Epicurus  <br>
+INTJ Understood: Harness your Strengths and Thrive as the Unstoppable Mastermind Dan Johnston <br>
+Meditations Marcus Aurelius <br>
 The Trial and Death of Socrates Plato  <br>
+Metaphysics  Aristotle <br>
 Thoughts of Marcus Aurelius Antoninus  <br>
 The World as Will and Representation Arthur Schopenhauer <br>
+The Autobiography of Malcolm X <br>
+The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure <br>
 Beyond Good & Evil, by Friedrich Nietzsche <br>
 Nietzsche: A Philosophical Biography <br>
 Big Ideas for Curious Minds: An Introduction to Philosophy  <br>
@@ -66,24 +69,20 @@ The Art of Living: Socratic Reflections from Plato to Foucault <br>
 The Psychopathology of Everyday Life (Complete Psychological Works of Sigmund Freud) <br>
 Nicomachean Ethics and Politics Aristotle <br>
 Aristotle: The Complete Aristotle <br>
-Metaphysics  Aristotle <br>
 The Trouble with Being Born  Emil Cioran <br>
-The Art of Happiness by Epicurus  <br>
 Great Thinkers: Simple Tools from 60 Great Thinkers to Improve Your Life Today <br>
-Meditations Marcus Aurelius <br>
 </p>
 
 Religion
 
 <p>
 Zen Mind, Beginner's Mind<br>
-The Qur'an<br>
-The Complete Confucius: The Analects, The Doctrine Of The Mean<br>
-The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation<br>
 Buddhism: Beginner’s Guide to Understanding & Practicing Buddhism to Become Stress and Anxiety Free<br>
-No Mud, No Lotus: The Art of Transforming Suffering<br>
+The Complete Confucius: The Analects, The Doctrine Of The Mean<br>
 The Sacred Path to Islam: A Guide to Seeking Allah (God) & Building a Relationship<br>
-Tao Te Ching  Lao Tzu
+The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation<br>
+No Mud, No Lotus: The Art of Transforming Suffering<br>
+Tao Te Ching  Lao Tzu<br>
 </p>
 
 Romance
