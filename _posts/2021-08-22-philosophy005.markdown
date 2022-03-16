@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Philosophy] Aristotle's Eudemonia comparsion to Buddhism's Nirvana"
+title:  "[Philosophy] Buddhism's Nirvana vs Aristotle's Eudemonia"
 date:   2021-04-20 15:36:27
 categories: jekyll update
 ---
