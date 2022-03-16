@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-“Knowing yourself is the beginning of all wisdom.”
+“Knowing yourself is the beginning of all wisdom.” Too bad Johnny Snow knows nothing
 
 <ul class="listing">
 {% for post in site.posts %}

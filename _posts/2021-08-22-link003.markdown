@@ -1,5 +1,5 @@
 ---
-title: "[Personal Development][Link] '80 20 Rule of Life"
+title: "[Personal Development][Link] 80 20 Rule of Life"
 layout: external
 external_url: https://asana.com/resources/pareto-principle-80-20-rule
 date:   2021-08-25 15:36:27
