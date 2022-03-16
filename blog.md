@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-“Knowing yourself is the beginning of all wisdom.” wikipedia and google are pretty good too...
+“Knowing yourself is the beginning of all wisdom. wikipedia and google are pretty good too."
 
 <ul class="listing">
 {% for post in site.posts %}
