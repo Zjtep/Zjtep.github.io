@@ -1,0 +1,6 @@
+---
+title: "[Personal Development][Link] A Guide to Executive Function"
+layout: external
+external_url: https://developingchild.harvard.edu/guide/a-guide-to-executive-function/
+date:   2020-08-23 15:36:27
+---
