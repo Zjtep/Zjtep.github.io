@@ -253,3 +253,25 @@ Finish painting + kitchen design
 {% include image.html url="/images/house_107.jpg" caption="" width=900 align="center" %}
 
 {% include image.html url="/images/PXL_20220227_232200904.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/005-1-11.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/009-1-7.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/012-1-31.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/013-1-29.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/017-1-14.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/018-1-15_m.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/019-1-16.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/021-1-1_m.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/023-1-3_m.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/028-1-23.jpg" caption="" width=900 align="center" %}
+
+{% include image.html url="/images/031-1-27.jpg" caption="" width=900 align="center" %}
