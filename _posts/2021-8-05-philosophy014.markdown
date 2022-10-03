@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "[Philosophy] My Three Pillars of Happiness - Epicurus"
-date:   2022-10-01 15:36:27
+date:   2022-08-01 15:36:27
 categories: jekyll update
 ---
 
 
 The Three Pillars of Happiness - Epicurus
 
-1. Cultivate True Friendships
+1) Cultivate True Friendships
 
 Epicurus wasn’t interested in sex or romance. He argued that our obsession with romantic relationships is, in fact, the cause for a lot of misery.
 
@@ -25,7 +25,7 @@ Seneca held that true friends should inspire us to improve and become happier. T
 Such relationships will enable us to lead better, more peaceful lives. That’s the first pillar of happiness.
 
 
-2. Produce Meaningful Work
+2) Produce Meaningful Work
 
 The next thing that many of us feel we need in order to be happy is wealth.
 
@@ -42,7 +42,7 @@ We all long to feel that we’re making a difference. Deep down, we don’t care
 
 In order to live happily, it’s critical that we love our work. After all, it’s this work that comprises a large chunk of our time. It only makes sense that we do the things we enjoy, and few things deliver as much joy as the knowledge that we’re helping others.
 
-3. Learn to Live Happily With Less
+3) Learn to Live Happily With Less
 
 Lastly, Epicurus considered our fixation with desire.
 

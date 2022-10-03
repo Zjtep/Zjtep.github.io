@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Personal Development] A Life Goal - Aristotle's Concept of Eudaimonia"
-date:   2022-8-05 15:36:27
+date:   2022-10-01 15:36:27
 categories: jekyll update
 ---
 
