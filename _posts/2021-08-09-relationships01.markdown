@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Relationships] Is Love an Emotion or a Choice
+title:  "[Relationships] Is Love an Emotion or a Choice"
 date:   2021-08-09 15:36:27
 categories: jekyll update
 ---
