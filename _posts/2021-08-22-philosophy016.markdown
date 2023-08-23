@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Personal Development] Buying My Freedom"
+title: "[Personal Development] Buying My Freedm"
 date:   2022-01-12 15:36:27
 categories: jekyll update
 ---
